@@ -27,7 +27,7 @@ I am currently a Research Assistant Professor of Mathematics at the Department o
 - **Intertwining the line-bundle and Grauert-tube Hardy quantizations of the round 2-sphere** - [arXiv.2608.13965](https://arxiv.org/abs/2608.13965)
 - **Koopman-equivariant statistical bundle and semiclassical branching asymptotics** -*in preparation*
 - **First variation of flat traces on negatively curved sufaces** - [arXiv2602.12230](https://arxiv.org/abs/2602.12230)
-- **Real Bers embedding on the line: Fisher-Rao linearization, Schwarzian curvature, and scattering coordinates** - [arXiv2602.07373](https://arxiv.org/pdf/2602.07373) (submitted to *Advances in Mathematics*)
+- **Real Bers embedding on the line: Fisher-Rao linearization, Schwarzian curvature, and scattering coordinates** - [arXiv2602.07373](https://arxiv.org/pdf/2602.07373) 
 - **Flat trace distribution of the geodesic flow on compact hyperbolic plane** - [arXiv2411.11392](https://arxiv.org/abs/2411.11392)  
 - **Non-isometric pairs of Riemannian manifolds with the same Guillemin-Ruelle zeta function** - [arXiv2208.04550](https://arxiv.org/abs/2208.04550) (submitted to *Journal of Spectral Theory*)  
 - **The Replacement Property of PSL(2,p) and PSL(2,p^2)** - [arXiv1709.08745](https://arxiv.org/abs/1709.08745)  
